@@ -1,16 +1,18 @@
-## Hi there 👋
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
-<!--
-**super-jw/super-jw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'M Jingwei! 
+<br /> 
 
-Here are some ideas to get you started:
+<!--Start Intro-->               
+<p align="left">I am a Machine Learning Researcher. </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 💁‍♂️ My current research interests mainly lie in trustworthy machine learning.
+- ❤ I am also open to possible collaboration. Feel free to contect me if there is any suitable ideas.
+- 💻 Visit my [Self-Webside]() for more details about me.
+<!--End Intro-->
+---
